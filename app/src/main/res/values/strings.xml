@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Midterm2</string>
+    <string name="nike_air_max_270_react_eng">Nike Air Max 270 React ENG</string>
+    <string name="_299_43">$299,43</string>
+    <string name="_24_off">24$ Off</string>
+    <string name="nike_air_max_270_react_eng2">Nike Air Max 270 React ENG</string>
+    <string name="_299_432">$299,43</string>
+    <string name="nike_air_max_270_react_eng3">Nike Air Max 270 React ENG</string>
+    <string name="_299_433">$299,43</string>
+    <string name="_24_off2">24$ Off</string>
+    <string name="favorite_product">Favorite Product</string>
+    <string name="todo">todo</string>
+    <string name="nike_air_max_270_react_eng4">Nike Air Max 270 React ENG</string>
+    <string name="_299_434">$299,43</string>
+    <string name="_24_off4">24$ Off</string>
+    <string name="_24_off3">24$ Off</string>
+    <string name="next">Next</string>
+    <string name="back">back</string>
+</resources>
